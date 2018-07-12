@@ -1,0 +1,26 @@
+﻿Build started 2018\7\12 星期四 0:05:40.
+     1>Project "E:\Opengl\build\examples\particles.vcxproj" on node 4 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Opengl/glfw/examples/CMakeLists.txt
+         CMake does not need to re-run because E:/Opengl/build/examples/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\Opengl\glfw\deps /IE:\Opengl\glfw\include /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"particles.dir\Debug\\" /Fd"particles.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt E:\Opengl\glfw\examples\particles.c E:\Opengl\glfw\deps\tinycthread.c E:\Opengl\glfw\deps\getopt.c E:\Opengl\glfw\deps\glad.c
+         particles.c
+         tinycthread.c
+         getopt.c
+         glad.c
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\\\"Debug\\\"" /l"0x0409" /IE:\Opengl\glfw\deps /IE:\Opengl\glfw\include /nologo /fo"particles.dir\Debug\glfw.res" E:\Opengl\glfw\examples\glfw.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Opengl\build\examples\Debug\particles.exe" /INCREMENTAL /NOLOGO ..\src\Debug\glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Opengl/build/examples/Debug/particles.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Opengl/build/examples/Debug/particles.lib" /MACHINE:X86 /SAFESEH  /machine:X86 particles.dir\Debug\glfw.res
+         particles.dir\Debug\particles.obj
+         particles.dir\Debug\tinycthread.obj
+         particles.dir\Debug\getopt.obj
+         particles.dir\Debug\glad.obj
+         particles.vcxproj -> E:\Opengl\build\examples\Debug\particles.exe
+     1>Done Building Project "E:\Opengl\build\examples\particles.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.38

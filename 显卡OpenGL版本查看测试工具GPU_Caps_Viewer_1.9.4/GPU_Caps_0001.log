@@ -1,0 +1,11 @@
+<->[NORMAL]#00000001#Thu Jul 12 00:59:53 2018#GPU Caps Viewer 1.9.4 startup
+<->[NORMAL]#00000002#Thu Jul 12 00:59:53 2018#Detected graphics cards and GPUs:
+<->[NORMAL]#00000003#Thu Jul 12 00:59:54 2018#Found 1 OpenCL-capable platform.
+<->[NORMAL]#00000004#Thu Jul 12 00:59:54 2018#Found 1 OpenCL-capable devices for platform AMD Accelerated Parallel Processing.
+<->[NORMAL]#00000005#Thu Jul 12 00:59:54 2018#Could not find nvcuda.dll.
+<->[NORMAL]#00000006#Thu Jul 12 00:59:54 2018#oZone3D Engine is starting up - kernel build: [v3.2.12 - Nov  5 2010 @ 08:53:38] - codename: Agerothgar
+<->[NORMAL]#00000007#Thu Jul 12 00:59:54 2018#oZone3D initialization in progress...
+<->[NORMAL]#00000008#Thu Jul 12 00:59:54 2018#oZone3D - OpenGL renderer creation ok.
+<->[NORMAL]#00000009#Thu Jul 12 00:59:54 2018#o3RendererOpenGL INFO: OpenGL version: 3.1.0 - Build 9.17.10.4229
+<->[NORMAL]#00000010#Thu Jul 12 00:59:54 2018#o3RendererOpenGL INFO: OpenGL Shading Language (GLSL) version: 1.40 - Intel Build 9.17.10.4229
+<->[NORMAL]#00000011#Thu Jul 12 00:59:54 2018#oZone3D initialization ok.

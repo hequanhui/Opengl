@@ -1,0 +1,24 @@
+GPU Caps Viewer
+Graphics Card Information Utility
+GPU Capabilities Viewer & OpenGL / OpenCL API Support
+Copyright © 2007-2010 Jerome 'JeGX' Guinot, All rights reserved.
+http://www.oZone3D.Net
+
+This software is provided 'as-is', without any express or implied warranty. 
+In no event will the author be held liable for any damages arising from the 
+use of this software.
+
+Permission is granted to anyone to use this software for any purpose, 
+including commercial applications, and to redistribute it freely, subject to 
+the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not claim 
+   that you wrote the original software.
+
+2. This software is a freeware, it cannot be sold or rented.
+
+3. - Websites: you can copy it and distribute it freely.
+   - CDROM/DVDROM or other kind of BUNDLES (graphics cards, etc.): 
+     please contact the author at jegx@ozone3d.net
+
+4. This notice may not be removed or altered from any distribution.

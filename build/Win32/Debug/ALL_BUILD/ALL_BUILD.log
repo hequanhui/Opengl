@@ -1,0 +1,10 @@
+﻿Build started 2018\7\12 星期四 0:06:12.
+     1>Project "E:\Opengl\build\ALL_BUILD.vcxproj" on node 4 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Opengl/glfw/CMakeLists.txt
+         CMake does not need to re-run because E:/Opengl/build/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "E:\Opengl\build\ALL_BUILD.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.94

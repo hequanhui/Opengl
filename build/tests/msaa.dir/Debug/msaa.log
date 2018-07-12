@@ -1,0 +1,21 @@
+﻿Build started 2018\7\12 星期四 0:05:30.
+     1>Project "E:\Opengl\build\tests\msaa.vcxproj" on node 3 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Opengl/glfw/tests/CMakeLists.txt
+         CMake does not need to re-run because E:/Opengl/build/tests/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\Opengl\glfw\deps /IE:\Opengl\glfw\include /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"msaa.dir\Debug\\" /Fd"msaa.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt E:\Opengl\glfw\tests\msaa.c E:\Opengl\glfw\deps\getopt.c E:\Opengl\glfw\deps\glad.c
+         msaa.c
+         getopt.c
+         glad.c
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Opengl\build\tests\Debug\msaa.exe" /INCREMENTAL /NOLOGO ..\src\Debug\glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Opengl/build/tests/Debug/msaa.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Opengl/build/tests/Debug/msaa.lib" /MACHINE:X86 /SAFESEH  /machine:X86 msaa.dir\Debug\msaa.obj
+         msaa.dir\Debug\getopt.obj
+         msaa.dir\Debug\glad.obj
+         msaa.vcxproj -> E:\Opengl\build\tests\Debug\msaa.exe
+     1>Done Building Project "E:\Opengl\build\tests\msaa.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.71

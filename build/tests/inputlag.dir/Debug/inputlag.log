@@ -1,0 +1,21 @@
+﻿Build started 2018\7\12 星期四 0:05:06.
+     1>Project "E:\Opengl\build\tests\inputlag.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule E:/Opengl/glfw/tests/CMakeLists.txt
+         CMake does not need to re-run because E:/Opengl/build/tests/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\Opengl\glfw\deps /IE:\Opengl\glfw\include /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"inputlag.dir\Debug\\" /Fd"inputlag.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt E:\Opengl\glfw\tests\inputlag.c E:\Opengl\glfw\deps\getopt.c E:\Opengl\glfw\deps\glad.c
+         inputlag.c
+         getopt.c
+         glad.c
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Opengl\build\tests\Debug\inputlag.exe" /INCREMENTAL /NOLOGO ..\src\Debug\glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Opengl/build/tests/Debug/inputlag.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Opengl/build/tests/Debug/inputlag.lib" /MACHINE:X86 /SAFESEH  /machine:X86 inputlag.dir\Debug\inputlag.obj
+         inputlag.dir\Debug\getopt.obj
+         inputlag.dir\Debug\glad.obj
+         inputlag.vcxproj -> E:\Opengl\build\tests\Debug\inputlag.exe
+     1>Done Building Project "E:\Opengl\build\tests\inputlag.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.05
